@@ -15,9 +15,12 @@ PR's welcome for all edits or new projects.
   - [Patches](#patches)
   - [Programs](#programs)
   - [Inspired By](#inspired-by)
+    - [Themes](#themes)
   - [Historical](#historical)
 
 ## Resources
+
+Resources to help with using or learning acme. 
 
 * [A Tour of Acme](https://research.swtch.com/acme)
 * [acme.cat-v.org](http://acme.cat-v.org/)
@@ -38,6 +41,10 @@ Programs intended to be used by/within acme.
 * [NextDiff](https://github.com/edma2/NextDiff) - Diff visualizer for acme
 * [arepa](https://github.com/mkmik/arepa) - Small helper for the acme editor that re-runs a command every time another (trigger) command exits 
 * [acme-lsp](https://github.com/fhs/acme-lsp) - Language Server Protocol tools for the acme text editor
+* [acre](https://github.com/mjibson/acre) - Language server client for acme in Rust
+* [acme-autoformat](https://gist.github.com/mkhl/69e2be41bfeccb368b52818ebd7f535b) - Autoacme event handler script 
+* [acme-editorconfig](https://gist.github.com/mkhl/5e4cda4f9a262f432eacd592aba5fd54) - EditorConfig support for Acme 
+* [NextDiff](https://github.com/edma2/NextDiff) - Diff visualizer for acme
 
 ## Libraries
 
@@ -47,15 +54,24 @@ Libraries which target acme or interface with acme.
 
 ## Inspired By
 
+Software inspired by acme. 
+
 * [edit](https://github.com/as/edit) - A stand-alone implementation of the Acme text editor's command language in Go
 * [editor](https://github.com/jmigpin/editor) - An acme-inspired, full-featured, editor in Go
-* [acme2k](https://github.com/karahobny/acme2k) - An acme-inspired geared towards easy configurability
+* [acme2k](https://github.com/karahobny/acme2k) - An acme-inspired editor geared towards easy configurability
 * [edwood](https://github.com/rjkroege/edwood) - Go version of Plan9 Acme Editor
 * [acvi](https://github.com/mjl-/acvi) - Acme & vi crossover, created with duit
 * [wmii](https://github.com/0intro/wmii) -  A small, scriptable window manager
 * [wily](https://wily.sourceforge.io/) - An implementation of acme
 
+### Themes
+
+* [parchment](https://github.com/ajgrf/parchment) - Editor theme for Vim and Emacs, inspired by Acme and Leuven
+* [vacme](https://github.com/olivertaylor/vacme) - Vim colorscheme based on plan9 and the Acme editor
+
 ## Historical
+
+Historical artifacts related to acme. 
 
 * [Acme 2e Alef source](http://mirror.postnix.pw/plan9_2e/sys/src/cmd/acme/)
 * [Inferno's acme Limbo source](https://bitbucket.org/inferno-os/inferno-os/src/master/appl/acme/)
