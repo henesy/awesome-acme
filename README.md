@@ -29,21 +29,29 @@ Resources to help with using or learning acme.
 
 ## Patches
 
+Source code patches for modifying acme. 
+
 * [acme-fonts](https://github.com/catenate/acme-fonts) - Blend Vera and 9x15, season with jis, misc, and Euro Latin
 
 ## Programs
 
 Programs intended to be used by/within acme.
 
-* [gitfiles](https://github.com/mariusae/gitfiles) - Support for browsing Git repositories inside Acme
+
 * [p9p_acme_scripts](https://github.com/neutralinsomniac/p9p_acme_scripts) - Code navigation/formatting scripts for p9p acme
 * [A](https://github.com/davidrjenni/A) - Go tools for Acme
-* [NextDiff](https://github.com/edma2/NextDiff) - Diff visualizer for acme
-* [arepa](https://github.com/mkmik/arepa) - Small helper for the acme editor that re-runs a command every time another (trigger) command exits 
-* [acme-lsp](https://github.com/fhs/acme-lsp) - Language Server Protocol tools for the acme text editor
-* [acre](https://github.com/mjibson/acre) - Language server client for acme in Rust
 * [acme-autoformat](https://gist.github.com/mkhl/69e2be41bfeccb368b52818ebd7f535b) - Autoacme event handler script 
+* [acme-backwards-search](https://github.com/Plan9-Archive/acme-backwards-search) - Reverse search for acme
 * [acme-editorconfig](https://gist.github.com/mkhl/5e4cda4f9a262f432eacd592aba5fd54) - EditorConfig support for Acme 
+* [acme-forth](https://github.com/Plan9-Archive/acme-forth) - Forth for acme
+* [acme-lsp](https://github.com/fhs/acme-lsp) - Language Server Protocol tools for the acme text editor
+* [acme-mail-thread-sort](https://github.com/Plan9-Archive/acme-mail-thread-sort) - Sort mail by thread
+* [acme-rev](https://github.com/Plan9-Archive/acme-rev/) - Look, but in reverse order
+* [acme-wsl](https://github.com/elrzn/acme-wsl) - Install acme+p9p on Debian-based distros on WSL
+* [acre](https://github.com/mjibson/acre) - Language server client for acme in Rust
+* [arepa](https://github.com/mkmik/arepa) - Small helper for the acme editor that re-runs a command every time another (trigger) command exits 
+* [gitfiles](https://github.com/mariusae/gitfiles) - Support for browsing Git repositories inside Acme
+* [github.com/sevki/acme](https://github.com/sevki/acme) - Acme related utils
 * [NextDiff](https://github.com/edma2/NextDiff) - Diff visualizer for acme
 
 ## Libraries
@@ -51,6 +59,7 @@ Programs intended to be used by/within acme.
 Libraries which target acme or interface with acme.
 
 * [9fans.net/go/acme](https://godoc.org/9fans.net/go/acme) - Interface for interacting with acme windows
+* [goacme](https://github.com/Plan9-Archive/goacme) - Interface to acme programming environment
 
 ## Inspired By
 
