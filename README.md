@@ -65,6 +65,7 @@ Libraries which target acme or interface with acme.
 
 Software inspired by acme. 
 
+* [a](https://github.com/as/a) - Text editor inspired by sam and acme
 * [edit](https://github.com/as/edit) - A stand-alone implementation of the Acme text editor's command language in Go
 * [editor](https://github.com/jmigpin/editor) - An acme-inspired, full-featured, editor in Go
 * [acme2k](https://github.com/karahobny/acme2k) - An acme-inspired editor geared towards easy configurability
